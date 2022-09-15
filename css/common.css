@@ -1,0 +1,15 @@
+:root{
+    font-family: 'Courier New', Courier, monospace;
+    --color-light: #fff;
+}
+*{
+    margin: auto;
+    background-color: gainsboro;
+}
+@media screen and (min-width: 360px) {
+    body {
+     margin: auto;
+ 
+    }
+  }
+  

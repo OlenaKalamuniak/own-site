@@ -1,0 +1,42 @@
+/* @media(min-wiidth:350px){
+    info{display: block;}
+} */
+main{
+    margin: 30px 50px;
+ 
+}
+.about_us{
+    padding: 10px 10px 40px;
+    margin: 10px 10px 40px 40px;
+    
+}
+h2{
+    margin: 10px ;
+    color:rgb(12, 12, 43);
+
+}
+
+#lessons{
+
+    flex-direction: row;
+}
+.yana{
+    width: 300px;
+   margin-bottom: 20px;
+    }
+.solia{
+    margin-bottom: 20px;
+    width: 300px;
+}
+.solyi{
+    margin-bottom: 20px;
+    width: 300px;
+}
+.other{
+    width: 300px;
+    margin-bottom: 20px;
+}
+.otheri{
+    width: 300px;
+    margin-bottom: 20px;
+}
