@@ -6,10 +6,12 @@
     margin: auto;
     background-color: gainsboro;
 }
-@media screen and (min-width: 360px) {
-    body {
-     margin: auto;
- 
+@media screen and (min-width: 800px) {
+    #lessons {
+        display: flex;
+        flex-direction:column;
     }
   }
+ 
+ 
   
